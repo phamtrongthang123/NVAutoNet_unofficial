@@ -1,4 +1,4 @@
-# NVAutoNet (Work in progress)
+# NVAutoNet (Work in progress) 
 
 Unofficial PyTorch implementation of [NVAutoNet](https://arxiv.org/abs/2303.12976v4) for nuScenes.
 
